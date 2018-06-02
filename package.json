@@ -1,12 +1,12 @@
 {
-  "name": "heatmap.js",
-  "version": "2.0.5",
-  "description": "Dynamic JavaScript Heatmaps for the Web",
-  "homepage": "https://www.patrick-wied.at/static/heatmapjs/",
+  "name": "@flux-coordinator/heatmapjs",
+  "version": "2.1.0",
+  "description": "Heatmap Library for the Flux Project. Forked from Patrick Wied's heatmap.js library.",
+  "homepage": "https://github.com/Flux-Coordinator/heatmap.js",
   "author": {
-    "name": "Patrick Wied",
-    "email": "heatmapjs@patrick-wied.at",
-    "url": "https://www.patrick-wied.at/"
+    "name": "Patrick Scherler",
+    "email": "pacs01dev@gmail.com",
+    "url": "https://github.com/pacs01"
   },
   "main": "build/heatmap.js",
   "devDependencies": {
