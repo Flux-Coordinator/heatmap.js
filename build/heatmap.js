@@ -1,10 +1,10 @@
 /*
- * heatmap.js v2.0.5 | JavaScript Heatmap Library
+ * @flux-coordinator/heatmapjs v2.1.0 | JavaScript Heatmap Library
  *
  * Copyright 2008-2016 Patrick Wied <heatmapjs@patrick-wied.at> - All rights reserved.
  * Dual licensed under MIT and Beerware license 
  *
- * :: 2018-05-30 15:02
+ * :: 2018-06-03 10:48
  */
 ;(function (name, context, factory) {
 
