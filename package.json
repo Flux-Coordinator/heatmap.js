@@ -2,7 +2,7 @@
   "name": "@flux-coordinator/heatmapjs",
   "version": "2.1.2",
   "description": "Heatmap Library for the Flux Project. Forked from Patrick Wied's heatmap.js library.",
-  "homepage": "https://github.com/Flux-Coordinator/heatmap.js",
+  "homepage": "https://github.com/Flux-Coordinator/heatmapjs",
   "author": {
     "name": "Patrick Scherler",
     "email": "pacs01dev@gmail.com",
